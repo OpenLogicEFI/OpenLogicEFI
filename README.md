@@ -26,4 +26,4 @@ All designs are released under the [TAPR Open Hardware License v1.0](https://fil
 
 - [Additional Documentation and Links](https://www.detonationems.com/support)
 
-</div>a
+</div>
